@@ -54,7 +54,7 @@ namespace ConsoleApp
                               $"d: {d}{Environment.NewLine} " +
                               $"n: {n}{Environment.NewLine}");
 
-            Console.WriteLine("Wait for message...");
+            Console.WriteLine("Waiting for input...");
 
             var b = Encoding.UTF8.GetBytes(Console.ReadLine());
 
