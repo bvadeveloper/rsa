@@ -1,2 +1,2 @@
-# rsa
-C# RSA implementation
+# RSA
+Simple implementation of RSA algorithm on C#
